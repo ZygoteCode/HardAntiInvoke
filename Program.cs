@@ -58,7 +58,7 @@ public class Program
 
     public static void Main()
     {
-        Console.Title = "HardAntiInvoke | Made by https://github.com/GabryB03/";
+        Console.Title = "HardAntiInvoke | Made by https://github.com/ZygoteCode/";
 
         if (Assembly.GetCallingAssembly() != Assembly.GetExecutingAssembly())
         {
